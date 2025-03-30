@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ValeMais Fuel</string>
+    <string name="combustivel_1">Combustivel 1</string>
+    <string name="buscar">Buscar</string>
+    <string name="combustivel_2">Combustivel 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="o_mais_barato_s">O Mais Vantajoso é: </string>
+    <string name="litros">Litros</string>
+    <string name="valor_combustivel_2">Valor Combustivel 2</string>
+    <string name="valor_combustivel_1">Valor Combustivel 1</string>
+</resources>
